@@ -31,7 +31,7 @@ Contains the main figures and figure legend associated with the manuscript.
 `figures/figure_1.tiff`
 `figures/figure 2.tiff`
 `figures/figure 3.tiff`
-`figures/legend.docx`
+`figures/legend.pdf`
 
 ### supplementary_data/
 Contains the supplementary files and supplementary figure associated with the manuscript.
