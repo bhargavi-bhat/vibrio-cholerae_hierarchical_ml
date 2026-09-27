@@ -1,9 +1,9 @@
 # vibrio-cholerae_hierarchical_ml
 Data, scripts and supplementary files accompanying the manuscript:
-**Hierarchical machine learning identifies genomic features underlying serotype variation in _Vibrio cholerae_
-**
+**_Hierarchical machine learning identifies genomic features underlying serotype variation in *Vibrio cholerae*_**
+
 ## Authors
-Bhargavi Venkatagiri†, Anuradha Singh†*, Suma Tiruvayipati, Viraj Bandsode, Ayan Mahapatra and Niyaz Ahmed*
+Bhargavi Venkatagiri†, Anuradha Singh†*, Suma Tiruvayipati, Viraj Bandsode, Ayan Mahapatra, and Niyaz Ahmed*
 
 †Equal contribution
 *Corresponding author
