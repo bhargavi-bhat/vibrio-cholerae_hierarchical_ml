@@ -1,4 +1,4 @@
-# vibrio-cholerae_hierarchical_ml
+# vibrio_cholerae_hierarchical_ml
 Data, scripts and supplementary files accompanying the manuscript:
 **_Hierarchical machine learning identifies genomic features underlying serotype variation in *Vibrio cholerae*_**
 
