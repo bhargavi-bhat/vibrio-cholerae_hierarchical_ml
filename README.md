@@ -5,8 +5,8 @@ Hierarchical machine learning identifies genomic features underlying serotype va
 ## Authors
 Bhargavi Venkatagiri†, Anuradha Singh†*, Suma Tiruvayipati, Viraj Bandsode, Ayan Mahapatra and Niyaz Ahmed*
 
-† Equal contribution
-* Corresponding author
+†Equal contribution
+*Corresponding author
 
 ## Overview
 This repository contains the data, analysis scripts, figures, and supplementary files supporting the study of genomic features underlying serotype variation in *Vibrio cholerae*.
