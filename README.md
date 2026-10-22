@@ -29,13 +29,13 @@ Contains the .ipynb files used for data curation, association studies, unsupervi
 ### figures/
 Contains the main figures and figure legend associated with the manuscript.
 `figures/figure_1.tiff`
-`figures/figure 2.tiff`
-`figures/figure 3.tiff`
+`figures/figure_2.tiff`
+`figures/figure_3.tiff`
 `figures/legend.pdf`
 
 ### supplementary_data/
 Contains the supplementary files and supplementary figure associated with the manuscript.
-`supplementary_data/Additional file 1.docx`
+`supplementary_data/Additional file-1.docx`
 `supplementary_data/Additional file 2.xlsx`
 `supplementary_data/supplementary_figures/supplementary figure 1.tiff`
 
