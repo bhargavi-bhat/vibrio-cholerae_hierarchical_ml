@@ -35,8 +35,8 @@ Contains the main figures and figure legend associated with the manuscript.
 
 ### supplementary_data/
 Contains the supplementary files and supplementary figure associated with the manuscript.
-`supplementary_data/Additional file-1.docx`
-`supplementary_data/Additional file 2.xlsx`
+`supplementary_data/Supplementary file-1.docx`
+`supplementary_data/Supplementary file-2.xlsx`
 `supplementary_data/supplementary_figures/supplementary figure 1.tiff`
 
 
